@@ -1,0 +1,10 @@
+pathlib
+textract
+pandas
+transformers
+torch
+tokenizers
+scikit-learn
+category_encoders
+scikit-optimize
+xgboost
